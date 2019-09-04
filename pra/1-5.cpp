@@ -24,3 +24,5 @@ int main(){
 	}
 	return 0;
 }
+
+// 解法: 使用ifelse分支遍历所有可能的情况.
